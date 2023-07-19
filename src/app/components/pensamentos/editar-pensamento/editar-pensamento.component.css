@@ -17,10 +17,13 @@
 
 .editar-pensamentos form {
   background: #C4EDFF;
+
   border: none;
   border-radius: 20px;
+
   display: flex;
   flex-direction: column;
+
   padding: 2rem;
 }
 
@@ -37,6 +40,7 @@
   border-radius: 20px;
   margin: 0.5rem 0 2rem;
 }
+
 
 .editar-pensamentos form .textarea {
   border: none;
